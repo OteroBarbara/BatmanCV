@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.item-lista{
+    font-weight: bold;
+}
+
+#datos-personales .item-lista{
+    font-style: italic;
+}
+ul{
+    list-style: none;
+    margin-left: 38px;
+    margin-bottom: 10px;
+}
+
+#datos-personales ul{
+    list-style: disc;
+}
+
+header{
+    text-align: center;
+    background-color: #E5E5E5;
+    padding-top: 10px;
+}
+
+.encabezado{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 12px;
+    padding: 10px 20px;
+}
+
+.container{
+    margin: 104px 225px;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: #fff;
+    height: 37px;
+    padding-top: 11px;
+}
+
+footer a{
+    padding-left: 20px;
+    font-size: 20px;
+    height: 37px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+}
+
+footer img{
+    width: 20px;
+}
